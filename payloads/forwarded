@@ -1,0 +1,8 @@
+for=127.0.0.1
+for=localhost
+for=127.0.0.1;proto=http
+for=127.0.0.1;proto=https
+for=127.0.0.1;host=localhost
+for=127.0.0.1;by=127.0.0.1
+for="[::1]"
+for=192.168.1.1, for=127.0.0.1

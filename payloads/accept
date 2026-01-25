@@ -1,0 +1,6 @@
+text/html
+application/json
+application/xml
+*/*
+text/plain
+application/x-www-form-urlencoded

@@ -1,0 +1,6 @@
+Cache-Control: no-cache
+Cache-Control: no-store
+Cache-Control: max-age=0
+Pragma: no-cache
+If-None-Match: *
+If-Modified-Since: Thu, 01 Jan 1970 00:00:00 GMT
